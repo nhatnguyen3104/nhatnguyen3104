@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nhatnguyen3104
-- 👀 I’m interested in hmmmm
-- 🌱 I’m currently learning android native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @nhatnguyen3104/nate3104
+- I'm an Android Developer
+- Contact email: nate310424@gmail.com
 
 <!---
 nhatnguyen3104/nhatnguyen3104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
